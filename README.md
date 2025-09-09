@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SamLo313
 - 👀 I’m interested in skiing
-- 🌱 I’m currently learning three.js and next.js
+- 🌱 I’m currently learning three.js
 - 📫 How to reach me: samkosimun@gmail.com
-- ⚡ Fun fact: i am 17 y.o.
+- ⚡ Fun fact: i am 18 y.o.
 
 <!---
 SamLo313/SamLo313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

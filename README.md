@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamLo313
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in skiing
 - 🌱 I’m currently learning three.js
 - 📫 How to reach me: samkosimun@gmail.com

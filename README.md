@@ -1,11 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          loading world... ████████████ 100%          ║
-╚══════════════════════════════════════════════════════╝
-```
-
 # hey, i'm Sam 👾
 
 **full stack dev · 3D enthusiast · born 2006**
@@ -24,7 +18,6 @@
   "location": "Slovakia 🇸🇰",
   "role": "Full Stack Web Developer",
   "passions": ["3D graphics", "game dev", "web apps"],
-  "currently": "turning caffeine into polygons and pixels",
   "open_to": ["collabs", "cool projects", "anything 3D"]
 }
 ```

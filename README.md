@@ -48,17 +48,6 @@
 
 ---
 
-### `> what_i_build`
-
-```
-🌐  Full stack web apps        ████████████░░░░  75%
-🎮  Godot games                ███████████░░░░░  70%
-🧊  R3F / Three.js experiences ████████░░░░░░░░  55%
-🔧  Random fun stuff           ████████████████ 100%
-```
-
----
-
 ### `> currently_learning`
 
 - 🧊 Advanced shaders & GLSL

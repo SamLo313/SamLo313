@@ -17,7 +17,7 @@
   "age": 19,
   "location": "Slovakia 🇸🇰",
   "role": "Full Stack Web Developer",
-  "passions": ["3D graphics", "game dev", "web apps"],
+  "passions": ["fullstack dev", "3D graphics", "game dev", "web apps", "skiing", "MTB"],
   "open_to": ["collabs", "cool projects", "anything 3D"]
 }
 ```
